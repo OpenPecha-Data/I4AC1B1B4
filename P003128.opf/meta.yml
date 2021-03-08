@@ -4,4 +4,64 @@ source_metadata:
   id: bdr:W4PD211
   title: འབུམ།
   author: ''
-  volumes: {}
+  volumes:
+    dbd764c05a0548318cc399d4ae411fd9:
+      image_group_id: I4PD269
+      title: ''
+      volume_number: 1
+      total_pages: 790
+    033b0aeec3794d55ac61ddf13381123a:
+      image_group_id: I4PD270
+      title: ''
+      volume_number: 2
+      total_pages: 806
+    44df50065e344d4ea2c8f6933540fb71:
+      image_group_id: I4PD271
+      title: ''
+      volume_number: 3
+      total_pages: 790
+    e27bafa5a66440feb4abef7bc3db914e:
+      image_group_id: I4PD272
+      title: ''
+      volume_number: 4
+      total_pages: 762
+    13a52a19bb7649dc896ac1e03719d440:
+      image_group_id: I4PD273
+      title: ''
+      volume_number: 5
+      total_pages: 792
+    3b82b3239d6d403d81124f656b281ccb:
+      image_group_id: I4PD274
+      title: ''
+      volume_number: 6
+      total_pages: 766
+    033d589785db4a659915366457b98dc2:
+      image_group_id: I4PD275
+      title: ''
+      volume_number: 7
+      total_pages: 798
+    c61bab3c65e54f1e945f9379677448d6:
+      image_group_id: I4PD276
+      title: ''
+      volume_number: 8
+      total_pages: 800
+    71a4d09227bc441eafec557a4e74c21c:
+      image_group_id: I4PD277
+      title: ''
+      volume_number: 9
+      total_pages: 770
+    a836c8d6a5a1422aa4519f76c59caf11:
+      image_group_id: I4PD278
+      title: ''
+      volume_number: 10
+      total_pages: 776
+    c4bddec8f50042138cd3ee7db9266265:
+      image_group_id: I4PD279
+      title: ''
+      volume_number: 11
+      total_pages: 824
+    ff0dc3a6897b4ca4a809029b0f09941f:
+      image_group_id: I4PD280
+      title: ''
+      volume_number: 12
+      total_pages: 796
